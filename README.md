@@ -9,11 +9,3 @@
 
 ### 1.1 - Building an API using Python
 
-### 1.2 - Build in Notebook in ObservableHQ in JavaScript
-
-### 1.3 - Implementation of the application in HTML
-
-### *Visit the link below to test:*
-
-## [api-finance-simple](https://api-finance-simple.herokuapp.com/)
-
